@@ -1,4 +1,4 @@
-# Machine Learning Class Assignment - Purchase Data Analysis
+# MML Individual Project 1 - Purchase Data Analysis
 
 ## Overview
 
